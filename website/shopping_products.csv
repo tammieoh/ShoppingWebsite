@@ -1,0 +1,55 @@
+productId,name,price,description,fabricType,size,color,rating
+1,T-shirt,30.00,B4,Cotton,S,Black,4.5
+2,T-shirt,30.00,Basic shirt with logo of designer's face,Cotton,M,Black,4.5
+3,T-shirt,30.00,Basic shirt with logo of designer's face,Cotton,L,Black,4.5
+4,T-shirt,30.00,Basic shirt with logo of designer's face,Cotton,S,Navy Blue,4.5
+5,T-shirt,30.00,Basic shirt with logo of designer's face,Cotton,M,Navy Blue,4.5
+6,T-shirt,30.00,Basic shirt with logo of designer's face,Cotton,L,Navy Blue,4.5
+7,T-shirt,30.00,Basic shirt with logo of designer's face,Cotton,S,Peach,4.5
+8,T-shirt,30.00,Basic shirt with logo of designer's face,Cotton,M,Peach,4.5
+9,T-shirt,30.00,Basic shirt with logo of designer's face,Cotton,L,Peach,4.5
+10,C-shirt,15.00,Basic shirt with block and Porsche logos dedicated to professor's wife,Cotton,S,Pink,4.7
+11,C-shirt,15.00,Basic shirt with block and Porsche logos dedicated to professor's wife,Cotton,M,Pink,4.7
+12,C-shirt,15.00,Basic shirt with block and Porsche logos dedicated to professor's wife,Cotton,L,Pink,4.7
+13,C-shirt,15.00,Basic shirt with block and Porsche logos dedicated to professor's wife,Cotton,S,Light Blue,4.7
+14,C-shirt,15.00,Basic shirt with block and Porsche logos dedicated to professor's wife,Cotton,M,Light Blue,4.7
+15,C-shirt,15.00,Basic shirt with block and Porsche logos dedicated to professor's wife,Cotton,L,Light Blue,4.7
+16,C-shirt,15.00,Basic shirt with block and Porsche logos dedicated to professor's wife,Cotton,S,Orange,4.7
+17,C-shirt,15.00,Basic shirt with block and Porsche logos dedicated to professor's wife,Cotton,M,Orange,4.7
+18,C-shirt,15.00,Basic shirt with block and Porsche logos dedicated to professor's wife,Cotton,L,Orange,4.7
+19,C-shirt,15.00,Basic shirt with block and Porsche logos dedicated to professor's wife,Cotton,S,White,4.7
+20,C-shirt,15.00,Basic shirt with block and Porsche logos dedicated to professor's wife,Cotton,M,White,4.7
+21,C-shirt,15.00,Basic shirt with block and Porsche logos dedicated to professor's wife,Cotton,L,White,4.7
+22,A Leggings,27.00,"Dedicated to designer's significant other. Good for working out and best fits tall, lanky people. Maximum performance.",Nylon,S,Black,4.5
+23,A Leggings,27.00,"Dedicated to designer's significant other. Good for working out and best fits tall, lanky people. Maximum performance.",Nylon,M,Black,4.5
+24,A Leggings,27.00,"Dedicated to designer's significant other. Good for working out and best fits tall, lanky people. Maximum performance.",Nylon,L,Black,4.5
+25,A Leggings,27.00,"Dedicated to designer's significant other. Good for working out and best fits tall, lanky people. Maximum performance.",Nylon,S,Dark Blue,4.5
+26,A Leggings,27.00,"Dedicated to designer's significant other. Good for working out and best fits tall, lanky people. Maximum performance.",Nylon,M,Dark Blue,4.5
+27,A Leggings,27.00,"Dedicated to designer's significant other. Good for working out and best fits tall, lanky people. Maximum performance.",Nylon,L,Dark Blue,4.5
+28,A Leggings,27.00,"Dedicated to designer's significant other. Good for working out and best fits tall, lanky people. Maximum performance.",Nylon,S,Burgundy,4.5
+29,A Leggings,27.00,"Dedicated to designer's significant other. Good for working out and best fits tall, lanky people. Maximum performance.",Nylon,M,Burgundy,4.5
+30,A Leggings,27.00,"Dedicated to designer's significant other. Good for working out and best fits tall, lanky people. Maximum performance.",Nylon,L,Burgundy,4.5
+31,46% Bike Short,25.00,Trendy short with 46 logo dedicated to designer's first fundamental exam grade,Nylon,S,Black,4.2
+32,46% Bike Short,25.00,Trendy short with 46 logo dedicated to designer's first fundamental exam grade,Nylon,M,Black,4.2
+33,46% Bike Short,25.00,Trendy short with 46 logo dedicated to designer's first fundamental exam grade,Nylon,L,Black,4.2
+34,46% Bike Short,25.00,Trendy short with 46 logo dedicated to designer's first fundamental exam grade,Nylon,S,Gray,4.2
+35,46% Bike Short,25.00,Trendy short with 46 logo dedicated to designer's first fundamental exam grade,Nylon,M,Gray,4.2
+36,46% Bike Short,25.00,Trendy short with 46 logo dedicated to designer's first fundamental exam grade,Nylon,L,Gray,4.2
+37,Battleship Hat,17.00,Hat with battleship logo dedicated to the homework that bombed designer's grade ,Cotton,One-size,Light Blue,5.0
+38,Luke & Pepper Hat,17.00,Cute hat dedicated to professor's dogs,Cotton,One-size,Tan,5.0
+39,Lang Hoodie,35.00,"Hoodie with snake, coffee, and ""C"" logos dedicated to computer science languages",Cotton,S,Pink,4.4
+40,Lang Hoodie,35.00,"Hoodie with snake, coffee, and ""C"" logos dedicated to computer science languages",Cotton,M,Pink,4.4
+41,Lang Hoodie,35.00,"Hoodie with snake, coffee, and ""C"" logos dedicated to computer science languages",Cotton,L,Pink,4.4
+42,Lang Hoodie,35.00,"Hoodie with snake, coffee, and ""C"" logos dedicated to computer science languages",Cotton,S,Black,4.4
+43,Lang Hoodie,35.00,"Hoodie with snake, coffee, and ""C"" logos dedicated to computer science languages",Cotton,M,Black,4.4
+44,Lang Hoodie,35.00,"Hoodie with snake, coffee, and ""C"" logos dedicated to computer science languages",Cotton,L,Black,4.4
+45,Buma Jacket,20.00,Jacket with animal logo dedicated to designer's professor,Polyester,S,Black,4.6
+46,Buma Jacket,20.00,Jacket with animal logo dedicated to designer's professor,Polyester,M,Black,4.6
+47,Buma Jacket,20.00,Jacket with animal logo dedicated to designer's professor,Polyester,L,Black,4.6
+48,Buma Jacket,20.00,Jacket with animal logo dedicated to designer's professor,Polyester,S,Red,4.6
+49,Buma Jacket,20.00,Jacket with animal logo dedicated to designer's professor,Polyester,M,Red,4.6
+50,Buma Jacket,20.00,Jacket with animal logo dedicated to designer's professor,Polyester,L,Red,4.6
+51,Buma Jacket,20.00,Jacket with animal logo dedicated to designer's professor,Polyester,S,Gray,4.6
+52,Buma Jacket,20.00,Jacket with animal logo dedicated to designer's professor,Polyester,M,Gray,4.6
+53,Buma Jacket,20.00,Jacket with animal logo dedicated to designer's professor,Polyester,L,Gray,4.6
+54,Designer Pins,50.00,Collection of pins with designer's face,NA,NA,Assorted,5.5

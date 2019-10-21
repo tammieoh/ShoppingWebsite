@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/3/w3.css" />
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  <script
+    src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"
+    type="text/javascript"
+  ></script>
+
+  <head>
+    <title>Suburban Infitters</title>
+    <link rel="icon" href="/Users/tammieoh/Desktop/shopping/IMG_2131.ico" />
+  </head>
+
+  <style>
+    h1 {
+      font-family: Courier;
+      font-size: 50px;
+      border: 2px gray;
+      border-style: dashed;
+      border-radius: 50mm;
+    }
+    p {
+
+      font-size: 15px;
+    }
+    body {
+      margin-top: 20mm;
+      margin-left: 20mm;
+      margin-bottom: 10mm;
+      margin-right: 10mm;
+      font-family: Courier, monospace;
+    }
+    img {
+      width: 30%;
+      height: 500mm;
+      margin: 2mm;
+      max-width: 30%;
+      max-height: 500px;
+      min-width: 100px;
+      min-height: 500px;
+    }
+    .center {
+      text-align: center;
+    }
+    .topnav {
+      overflow: hidden;
+    }
+    .topnav .navbar{
+        position: absolute;
+        z-index:1;
+        left: 100px;
+        top: 5mm;
+        width: 70%;
+        margin-top: 15px;
+        font-size: 14px;
+    }
+    .topnav .search-container input[type="text"] {
+      top: 5px;
+      position: absolute;
+      left: 1075px;
+      padding: 6px;
+      margin-top: 15px;
+      margin-right: 20mm;
+      font-size: 14px;
+      border: 1px solid grey;
+      float: left;
+      width: 15%;
+      background: #f1f1f1;
+    }
+    .topnav .search-container button {
+      top: 5px;
+      position: absolute;
+      left: 1300px;
+      float: right;
+      padding: 6px;
+      margin-top: 15px;
+      margin-right: 20mm;
+      background: lightsteelblue;
+      font-size: 16px;
+      border: none;
+      cursor: pointer;
+    }
+    /* On mouse-over */
+    .btn:hover {
+      background: #eee;
+    }
+  </style>
+
+  <body>
+    <h1 class="center">
+      Suburban Infitters
+    </h1>
+    <p class="center">
+      Get the trendiest clothes here. Original items designed and created by
+      Tammie Oh.
+    </p>
+    <div class="topnav">
+      <div class="navbar">
+        <a href="#home">Home</a>
+        <a href="#register" onclick="">Register</a>
+        <a href="#login">Login</a>
+        <a href="#wishList">Wish List</a>
+        <a href="#shoppingCart"> Shopping Cart</a>
+      </div>
+
+      <div class="search-container">
+        <button type="submit">Submit</button>
+        <input type="text" placeholder="Search.." name="search" />
+      </div>
+    </div>
+
+    <img
+      src="Shopping_html/shopping/basicshirt.jpeg"
+      onclick="window.location.href='Shopping_html/t_shirt.html'"
+    />
+    <img src="Shopping_html/shopping/cshirt.jpg" onclick="window.location.href='Shopping_html/c_shirt.html'"/>
+    <img src="Shopping_html/shopping/bikeshort.JPG" onclick="window.location.href='Shopping_html/bike_short.html'" />
+    <img src="Shopping_html/shopping/hoodie.JPG" onclick="window.location.href='Shopping_html/lang_hoodie.html'" />
+    <img src="Shopping_html/shopping/Aleggings.JPG" onclick="window.location.href='Shopping_html/a_leggings.html'" />
+    <img src="Shopping_html/shopping/buma.jpeg" onclick="window.location.href='Shopping_html/buma_jacket.html'"/>
+    <img src="Shopping_html/shopping/puppy.jpeg" onclick="window.location.href='Shopping_html/luke_and_pepper.html'" />
+    <img src="Shopping_html/shopping/tammiepins.JPG" onclick="window.location.href='Shopping_html/designer_pins.html'"/>
+    <img src="Shopping_html/shopping/battleship.png" onclick="window.location.href='Shopping_html/battleship_hat.html'" />
+
+    <!-- <script>
+      function register() {
+        $.ajax({
+          url: "http://localhost:8080/register",
+          complete: function(response) {
+            $("#output").html(response.responseText);
+          },
+          error: function() {
+            $("#output").html("Bummer: there was an error!");
+          }
+        });
+        return false;
+      }
+    </script>
+    <script>
+      fetch(URL)
+        .then(res => {
+          return res.blob();
+        })
+        .then(blob => {
+          var img = URL.createObjectURL(blob); // Do whatever with the img
+          document.getElementById("img").setAttribute("src", img);
+        });
+    </script>
+    <script>
+      function login() {
+        var obj = {};
+        obj.username = document.getElementById("username").value;
+        obj.password = document.getElementById("password").value;
+        $.ajax({
+          type: "GET",
+          url: "http://localhost:8080/login",
+          data: JSON.stringify(obj),
+          contentType: "application/json",
+          crossDomain: true
+        })
+          .done(function(data) {
+            console.log(obj.username + " " + JSON.stringify(data));
+          })
+          .fail(function(data) {
+            console.log(data);
+          });
+      } -->
+    </script>
+  </body>
+</html>
